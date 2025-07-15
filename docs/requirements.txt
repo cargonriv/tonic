@@ -1,3 +1,4 @@
 sphinx>=4.0
 sphinx-book-theme
 myst_nb
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
